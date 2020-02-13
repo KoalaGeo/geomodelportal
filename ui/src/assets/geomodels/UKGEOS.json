@@ -1,0 +1,334 @@
+{
+    "groups": {
+        "Surfaces": [
+            {
+                "display_name": "Topography",
+                "displayed": true,
+                "include": true,
+                "model_url": "01_Topography_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "01_Topography_50m_GGERFS_Predrill",
+                        "title": "01_Topography_50m_GGERFS_Predrill"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Rockhead",
+                "displayed": true,
+                "include": true,
+                "model_url": "02_Rockhead_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "02_Rockhead_50m_GGERFS_Predrill",
+                        "title": "02_Rockhead_50m_GGERFS_Predrill"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Top Middle Scottish Coal Measures",
+                "displayed": true,
+                "include": true,
+                "model_url": "03_TopMiddleScottishCoalMeasures_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "03_TopMiddleScottishCoalMeasures_50m_GGERFS_Predrill.gltf",
+                        "title": "03_TopMiddleScottishCoalMeasures_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Glasgow Upper Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "04_GlasgowUpperCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "04_GlasgowUpperCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "04_GlasgowUpperCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Glasgow Ell Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "05_GlasgowEllCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "05_GlasgowEllCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "05_GlasgowEllCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Glasgow Main Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "06_GlasgowMainCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "06_GlasgowMainCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "06_GlasgowMainCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Humph Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "07_HumphCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "07_HumphCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "07_HumphCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Glasgow Splint Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "08_GlasgowSplintCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "08_GlasgowSplintCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "08_GlasgowSplintCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Virgin Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "09_VirginCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "09_VirginCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "09_VirginCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Airdrie Blackband Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "10_AirdrieBlackbandCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "10_AirdrieBlackbandCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "10_AirdrieBlackbandCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Airdrie Virtuewell Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "11_AirdrieVirtuewellCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "11_AirdrieVirtuewellCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "11_AirdrieVirtuewellCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Kiltongue Coal",
+                "displayed": true,
+                "include": true,
+                "model_url": "12_KiltongueCoal_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "12_KiltongueCoal_50m_GGERFS_Predrill.gltf",
+                        "title": "12_KiltongueCoal_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Base Lower Scottish Coal Measures",
+                "displayed": true,
+                "include": true,
+                "model_url": "13_BaseLowerScottishCoalMeasures_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "01_Topography_50m_GGERFS_Predrill": {
+                        "name": "13_BaseLowerScottishCoalMeasures_50m_GGERFS_Predrill.gltf",
+                        "title": "13_BaseLowerScottishCoalMeasures_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            }            
+        ],
+        "Faults": [
+            {
+                "display_name": "Blythswood",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_Blythswood_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "Fault_Blythswood_50m_GGERFS_Predrill": {
+                        "name": "Fault_Blythswood_50m_GGERFS_Predrill",
+                        "title": "Fault_Blythswood_50m_GGERFS_Predrill"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Burnside",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_Burnside_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_Burnside_50m_GGERFS_Predrill",
+                        "title": "Fault_Burnside_50m_GGERFS_Predrill"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Fault F6",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f6_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f6_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f6_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Fault F14",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f14_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f14_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f14_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Fault F15",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f15_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f15_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f15_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Fault F16",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f16_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f16_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f16_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            }, 
+            {
+                "display_name": "Fault F23",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f23_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f23_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f23_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },      
+            {
+                "display_name": "Fault F36",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f36_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f36_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f36_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            }, 
+            {
+                "display_name": "Fault F37",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_f37_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_f37_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_f37_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Rutherglen",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_Rutherglen_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_Rutherglen_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_Rutherglen_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            },
+            {
+                "display_name": "Shettleston",
+                "displayed": true,
+                "include": true,
+                "model_url": "Fault_Shettleston_50m_GGERFS_Predrill.gltf",
+                "popups": {
+                    "02_Rockhead_50m_GGERFS_Predrill": {
+                        "name": "Fault_Shettleston_50m_GGERFS_Predrill.gltf",
+                        "title": "Fault_Shettleston_50m_GGERFS_Predrill.gltf"
+                    }
+                },
+                "type": "GLTFObject"
+            }
+        ]
+    },
+    "properties": {
+        "crs": "EPSG:27700",
+        "extent": [
+            259997.5,
+            660847.5,
+            265002.5,
+            665002.5
+        ],
+        "init_cam_dist": 500000.0,
+        "name": "Glasgow Bedrock",
+        "proj4_defn": "+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +datum=OSGB36 +units=m +no_defs"
+    },
+    "type": "GeologicalModel",
+    "version": 1.0
+}

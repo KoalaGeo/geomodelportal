@@ -1,0 +1,114 @@
+{
+    "asset": {
+        "generator": "COLLADA2GLTF",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "name": "Y_UP"
+        },
+        {
+            "mesh": 0,
+            "name": "FAULT_F37_50M_GGERFS_PREDRILL"
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 1
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ],
+            "name": "FAULT_F37_50M_GGERFS_PREDRILL"
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 285,
+            "max": [
+                69
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 70,
+            "max": [
+                260401.296875,
+                662246.0,
+                -51.05958938598633
+            ],
+            "min": [
+                259996.40625,
+                661918.125,
+                -500.0
+            ],
+            "type": "VEC3"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5882350206375122,
+                    0.3215689957141876,
+                    0.17647099494934086,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true,
+            "name": "effect-00007"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 840,
+            "byteLength": 570,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 840,
+            "byteStride": 12,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1410,
+            "uri": "data:application/octet-stream;base64,R/Z9SLqkIUm793PDYPV9SCujIUn/wDzDIOd9SMWlIUmaNmLDIOd9SGekIUnHeTbDIOd9SCOnIUm9+YbDkwN+SMeiIUlO0V7DjQN+SFukIUk2U4rDM/59SDKhIUkbvhbD8xJ+SBOgIUmNRzbDIOd9SAqjIUlIrwrDGud9SK+hIUmKvr3CrfF9SL2fIUks2oHCOvx9SCWfIUlP7p3CGud9SFKgIUkFPUzCwAZ+SIueIUnrK7rCTRF+SO+dIUlw3dXC0xt+SFqdIUnbaPLC8yF+SLqeIUnzTzvDZyZ+SLqcIUndwwbDoCB+SIOgIUn/VHTDJzF+SHeeIUldb2fDZxF+SACjIUkn6IrD5yB+SM+iIUnui6LDUyx+SOugIUk70JXDLQp+SHqlIUlQRKnD4CF+SFWkIUnNWr7Duvh9SEimIUnLv5fDQPZ9SDKoIUn6HrTDJ+d9SHOoIUm3EJ3DDQh+SEKnIUksfMPDE/19SEOpIUnCftDD4BZ+SDumIUn9dcvDYA1+SGeoIUkRKN7DMyB+SACmIUldi9bDwBd+SGqnIUmeht/DAC1+SHKkIUnuLNLDZyp+SFWlIUlEINzDmi9+SI+jIUmMOcjDbSp+SIWiIUl7JK7DMzJ+SKuiIUkuRr7DbTd+SOugIUnKSqrDEzp+SA+gIUnBP6DDzTR+SMihIUnUUrTDjTV+SBWfIUkjeYbDhyt+SOCfIUkfFILDujx+SDKfIUlVMZbDYD9+SFeeIUlKIozDB0J+SHudIUnyEYLDYDx+SIqcIUkA3k3DoER+SJqcIUnXMXDD7TB+SBOcIUlpPhTDczt+SGubIUnY3yHDAER+SLCaIUmalyrDM0d+SLObIUkrZVzDx0l+SMuaIUnQpEjDU0x+SOKZIUn25zTDzSd+SDimIUmfE+bDkyJ+SP2nIUkAAPrDGht+SMKoIUkAAPrDoBN+SIepIUkAAPrDLQx+SE2qIUkAAPrDwAR+SBurIUkAAPrDevd9SBirIUknV+PDJ+d9SA2rIUmLVMnDWv19SO2rIUkAAPrD8/V9SL+sIUkAAPrDk+59SJCtIUkAAPrDLed9SPKsIUlEEuXDLed9SGCuIUkAAPrDJ+d9SLupIUlCRrPDAAABAAIAAgABAAMABAAAAAIAAQAAAAUABgAFAAAABwABAAUACAAHAAUABwAJAAEACQADAAEACgAJAAcACwAKAAcADAALAAcACgALAA0ABwAOAAwADgAHAA8ABwAIAA8ADwAIABAACAARABAAEgAQABEACAATABEAEwAUABEAFQATAAgAFQAIAAUAFQAWABMAEwAWABcAFQAYABYAFgAYABkABgAYABUABQAGABUAGAAGABoABgAAABoAGAAaABsAGwAaABwAGAAbAB0AHQAbAB4AHwAYAB0AIAAfAB0AGQAYAB8AIQAZAB8AIgAhAB8AGQAhACMAJAAjACEAJQAZACMAJgAZACUAJwAmACUAFgAZACYAFwAWACYAJgAoABcAKQAXACgAKgAoACYAKgAmACcAKQArABcAFwArACwAKQAtACsAKwAtAC4AKwAuAC8AKwAvABQAMAAUAC8AKwAUACwAEwAsABQALAATABcAMAAvADEAMgAUADAAMwAyADAAEQAUADIAEQAyABIAMwAwADQANQA0ADAANQAwADEANAA1ADYANgA3ADQAJAAhADgAIgA4ACEAOQA4ACIAOQAiADoAOwA6ACIAOwAiACAAIAAiAB8AOwAgADwAPQA8ACAAHgA9ACAAIAAdAB4APgA9AB4AHgA/AD4AQAA9AD4AQQBAAD4AQgBBAD4AQgA+AEMAPwBDAD4AQwBEAEIAPwAeABsAPwAbAEUAHABFABsABAAcABoABAAaAAAA"
+        }
+    ]
+}
