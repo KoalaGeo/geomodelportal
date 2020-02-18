@@ -18,29 +18,9 @@ export class ProviderSelectionComponent {
     constructor(private modelInfoService: ModelInfoService) {
         this.sliders.push(
             {
-                imagePath: 'assets/images/Windimurra.PNG',
-                label: 'Western Australia (DMIRS)',
-                text: 'Windimurra Model'
-            },
-            {
-                imagePath: 'assets/images/NorthGawler.PNG',
-                label: 'South Australia (Minerals)',
-                text: 'North Gawler Model'
-            },
-            {
-                imagePath: 'assets/images/RoseberyLyell.PNG',
-                label: 'Tasmania (MRT)',
-                text: 'Rosebery Lyell Model'
-            },
-            {
-                imagePath: 'assets/images/Yilgarn.PNG',
-                label: 'Geoscience Australia',
-                text: 'Yilgarn Model'
-            },
-            {
-              imagePath: 'assets/images/Otway.PNG',
-              label: 'Victoria (Earth Resources)',
-              text: 'Otway Model'
+                imagePath: 'https://www.bgs.ac.uk/services/3Dgeology/images/eamodel.jpg',
+                label: 'BGS Model',
+                text: 'Glasgow Model'
             }
         );
         this.modelInfoService.getProviderInfo().then(res => { this.sources = res; });
