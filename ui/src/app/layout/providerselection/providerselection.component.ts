@@ -18,8 +18,8 @@ export class ProviderSelectionComponent {
     constructor(private modelInfoService: ModelInfoService) {
         this.sliders.push(
             {
-                imagePath: 'https://www.bgs.ac.uk/services/3Dgeology/images/eamodel.jpg',
-                label: 'BGS Model',
+                imagePath: 'assets/images/Glasgow_Model.PNG',
+                label: 'UKGEOS',
                 text: 'Glasgow Model'
             }
         );

@@ -73,13 +73,8 @@
     "materials": [
         {
             "pbrMetallicRoughness": {
-                "baseColorFactor": [
-                    0.8003873825073242,
-                    0.8400360345840454,
-                    0.0927618145942688,
-                    1.0
-                ],
-                "metallicFactor": 0.0
+                "baseColorFactor": [ 1.000, 0.766, 0.336, 1.0 ],
+                "metallicFactor": 1
             },
             "emissiveFactor": [
                 0.0,

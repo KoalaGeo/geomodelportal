@@ -5,14 +5,14 @@
                     {
                         "name": "UKGEOS Glasgow Bedrock",
                         "modelUrlPath": "UKGEOS",
-                        "icon": "uk.png",
+                        "icon": "bgslrwo.png",
                         "colourClass": "primary",
                         "configFile": "UKGEOS.json",
                         "modelDir": "UKGEOS",
                         "srcUrl" : "https://www.ukgeos.ac.uk/data-downloads/glasgow/bedrock"
                     }                
                 ],
-                "icon": "uk.png",
+                "icon": "bgslrwo.png",
                 "colourClass": "primary",
                 "infoUrl": "http://www.bgs.ac.uk/"
             }
